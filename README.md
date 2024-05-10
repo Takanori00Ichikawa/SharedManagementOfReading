@@ -19,9 +19,11 @@ PC
       * HTML
       * CSS
       * BootStrap
+      * JSP
    * #### バックエンド
       * Java (ver.9)
       * 10.4.27-MriaDB
+      * サーブレット
 
 ## 開発環境
 eclipse2022
